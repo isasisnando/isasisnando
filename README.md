@@ -1,13 +1,13 @@
 ## Hi, I'm Isabela Souza👋
 #### Computer Science student at University of Brasilia
 ```python
-from unballoon import Na_Base_do_O(u)
+from unballoon import isasouza
 
-class Isabela_Souza(Na_Base_do_O(u)):
+class Isabela_Souza(isasouza)):
   def __init__(self):
     super.__init__()
     self._name: "Isabela Souza Sisnando de Araujo"
-    self._age: 18
+    self._age: 19
     self._university: "University of Brasilia - UnB"
     self._undergraduation: "Computer Science"
     self._location: "Brasilia, Brazil 🇧🇷"
